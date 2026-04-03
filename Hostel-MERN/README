@@ -1,0 +1,66 @@
+🏨 Hostel Management System
+
+A MERN stack application designed to simplify and automate hostel management operations for both admins and students.
+
+✨ Features
+🔐 Authentication
+Login / Signup system with secure access
+🧑‍💼 Admin Panel
+Student registration
+Attendance management
+Complaint handling
+Mess management
+Invoice generation
+Suggestion management
+🎓 Student Panel
+View attendance records
+Request mess off
+View invoices
+Submit complaints
+Send suggestions
+⚙️ Tech Stack
+MongoDB
+Express.js
+React.js
+Node.js
+Concurrently
+📦 Installation
+
+Install Node.js and MongoDB on your system.
+
+Then clone the project and install dependencies:
+
+cd client
+npm install
+cd ../server
+npm install
+cd ../
+npm install -g concurrently
+🗄️ Database Setup
+Create a MongoDB database named:
+hostel
+Import required collections (example: users, complaints, invoices, etc.)
+🚀 Run the Project
+npm run dev
+🔐 Environment Variables
+
+Create a .env file inside the backend/server folder:
+
+MONGO_URI=mongodb://127.0.0.1:27017/hostel
+JWT_SECRET=Anappleadaykeepsthedoctoraway
+👤 Login Credentials
+Admin
+Email:ramalakshmidevatha@gmail.com
+Password: 24B11IT024
+Student
+Email: trishakolla@gmail.com
+Password: 24B11CS214
+
+Email: deekshithamede@gmail.com
+Password: 24B11CS276
+
+🤝 Features for Improvement
+UI enhancements
+Role-based access control improvements
+Performance optimization
+Additional analytics dashboard
