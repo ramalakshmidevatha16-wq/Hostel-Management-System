@@ -1,0 +1,60 @@
+[
+  {
+    "_id": {
+      "$oid": "6467a0ee36257fce55bac877"
+    },
+    "name": "Trisha Kolla",
+    "cms_id": 201040,
+    "room_no": 317,
+    "batch": 2028,
+    "dept": "cse",
+    "course": "BTech",
+    "email": "trishakolla@gmail.com",
+    "father_name": "ravi",
+    "contact": "916574644465",
+    "address": "Rajahmundry",
+    "dob": {
+      "$date": "2004-06-08T00:00:00.000Z"
+    },
+    "cnic": "1234567891234",
+    "user": {
+      "$oid": "69af06177dcd3077fb6e5b90"
+    },
+    "hostel": {
+      "$oid": "645aae56db7005c0dc64fd92"
+    },
+    "date": {
+      "$date": "2026-01-01T16:16:46.538Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6467df72c2b3142559d29326"
+    },
+    "name": "Deekshitha Mede",
+    "cms_id": 207060,
+    "room_no": 212,
+    "batch": 2028,
+    "dept": "cse",
+    "course": "BTech",
+    "email": "deekshithamede@gmail.com",
+    "father_name": "srinu",
+    "contact": "937382938087",
+    "address": "kakinada",
+    "dob": {
+      "$date": "2007-05-09T00:00:00.000Z"
+    },
+    "cnic": "6110197584215",
+    "user": {
+      "$oid": "69af062a7dcd3077fb6e5b93"
+    },
+    "hostel": {
+      "$oid": "645aae56db7005c0dc64fd92"
+    },
+    "date": {
+      "$date": "2024-05-19T20:43:30.844Z"
+    },
+    "__v": 0
+  }
+]
